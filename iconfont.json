@@ -1,0 +1,30 @@
+{
+  "id": "2594657",
+  "name": "心情",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "79015",
+      "name": "温度计",
+      "font_class": "wenduji",
+      "unicode": "e620",
+      "unicode_decimal": 58912
+    },
+    {
+      "icon_id": "13376532",
+      "name": "向左",
+      "font_class": "next",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "18333406",
+      "name": "向左",
+      "font_class": "next1",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    }
+  ]
+}
